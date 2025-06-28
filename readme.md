@@ -7,3 +7,5 @@
 - 板子型号: ZCU104
 
 - Stream Adder tree (参数可配置)
+
+- Critical Path 尽量短一些
